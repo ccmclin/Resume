@@ -1,0 +1,61 @@
+/* This is a single-line comment */
+
+/* Font for entire page */
+
+html, body {
+  font-family: "arial", sans-serif;
+}
+
+/* Name at top of the page*/
+h1 {
+  color: #33485e;            
+  font-size: 32px;           
+  text-transform: uppercase; 
+  text-align: center;
+  font-size: 3em;
+}
+
+/* Title */
+
+strong {
+  color: #33485e
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+/* Section Headers */
+
+h2 {
+  color: #fff; 
+  text-transform: uppercase;
+  font-size: 1em;
+  background-color: #33485e;
+  font-weight: 400
+}
+
+/* Job titles */
+
+h3 {
+  font-weight: 600;
+  font-size: 1em;
+}
+
+/* Job Organization */
+
+h4 {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1em;
+}
+
+/* Job Organization */
+
+h5 {
+  font-weight: 700;
+  font-size: 1em;
+}
+
+.skills {
+  color: pink
+  font-size: 1em
+}
